@@ -1,0 +1,45 @@
+{
+ "Jobs": [
+  {
+   "Title": "Breitbart News Network",
+   "URL": "https://www.breitbart.com/",
+   "Status": 200
+  },
+  {
+   "Title": "NBC News - Breaking News \u0026 Top Stories - Latest World, US \u0026 Local News | NBC News",
+   "URL": "https://www.nbcnews.com/",
+   "Status": 200
+  },
+  {
+   "Title": "Fox News - Breaking News Updates | Latest News Headlines | Photos \u0026 News Videos",
+   "URL": "https://www.foxnews.com/",
+   "Status": 200
+  },
+  {
+   "Title": "BBC - Homepage",
+   "URL": "https://www.bbc.com/",
+   "Status": 200
+  },
+  {
+   "Title": "The Onion | America's Finest News Source.",
+   "URL": "https://www.theonion.com/",
+   "Status": 200
+  },
+  {
+   "Title": "CNN International - Breaking News, US News, World News and Video",
+   "URL": "https://edition.cnn.com/",
+   "Status": 200
+  },
+  {
+   "Title": "Alex Jones' Infowars: There's a war on for your mind!",
+   "URL": "https://www.infowars.com/",
+   "Status": 200
+  },
+  {
+   "Title": "News, sport and opinion from the Guardian's global edition | The Guardian",
+   "URL": "https://www.theguardian.com/international",
+   "Status": 200
+  }
+ ],
+ "Errors": null
+}
